@@ -1,0 +1,52 @@
+export const products = [
+    {
+      coverImsge: './assets/img/phone-cover.jpg',
+      name: 'Phone XL',
+      price: 799,
+      description: 'A large phone with one of the best screens',
+      heading1: 'サンプルテキスト１',
+      heading2: 'サンプルテキスト２',
+      heading3: 'サンプルテキスト３',
+      headingtext1: 'sampletext sampletext sampletexts ampletext sampletext sampletext sampletext sampletext sampletext',
+      headingtext2: 'sampletext sampletext sampletexts ampletext sampletext sampletext sampletext sampletext sampletext ',
+      headingtext3: 'sampletext sampletext sampletexts ampletext sampletext sampletext sampletext sampletext sampletext',
+
+    },
+    {
+      coverImsge: './assets/img/phone-cover.jpg',
+      name: 'Phone Mini',
+      price: 699,
+      description: 'A great phone with one of the best cameras',
+      heading1: 'サンプルテキスト１',
+      heading2: 'サンプルテキスト２',
+      heading3: 'サンプルテキスト３',
+      headingtext1: 'sampletext sampletext sampletexts ampletext sampletext sampletext sampletext sampletext sampletext',
+      headingtext2: 'sampletext sampletext sampletexts ampletext sampletext sampletext sampletext sampletext sampletext ',
+      headingtext3: 'sampletext sampletext sampletexts ampletext sampletext sampletext sampletext sampletext sampletext',
+    },
+    {
+      coverImsge: './assets/img/phone-cover.jpg',
+      name: 'Phone Standard',
+      price: 299,
+      description: 'A great phone with one of the best cameras',
+      heading1: 'サンプルテキスト１',
+      heading2: 'サンプルテキスト２',
+      heading3: 'サンプルテキスト３',
+      headingtext1: 'sampletext sampletext sampletexts ampletext sampletext sampletext sampletext sampletext sampletext',
+      headingtext2: 'sampletext sampletext sampletexts ampletext sampletext sampletext sampletext sampletext sampletext ',
+      headingtext3: 'sampletext sampletext sampletexts ampletext sampletext sampletext sampletext sampletext sampletext',
+    },
+
+    {
+      coverImsge: './assets/img/phone-cover.jpg', 
+      name: 'Phone spcial',
+      price: 1000,
+      description: 'A great phone with one of the best cameras',
+      heading1: 'サンプルテキスト１',
+      heading2: 'サンプルテキスト２',
+      heading3: 'サンプルテキスト３',
+      headingtext1: 'sampletext sampletext sampletexts ampletext sampletext sampletext sampletext sampletext sampletext',
+      headingtext2: 'sampletext sampletext sampletexts ampletext sampletext sampletext sampletext sampletext sampletext ',
+      headingtext3: 'sampletext sampletext sampletexts ampletext sampletext sampletext sampletext sampletext sampletext',
+    }
+  ];
